@@ -1,4 +1,4 @@
-<h1> Challenge Akura </h1>
+<h1> Challenge Alura </h1>
 
 - Estado del proyecto: En construcción.
 
