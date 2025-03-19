@@ -1,7 +1,4 @@
-<h1> Taller de cálculo avanzado </h1>
+<h1> Challenge Akura </h1>
 
 - Estado del proyecto: En construcción.
 
-
-para esto lallala
-sistema comentado
